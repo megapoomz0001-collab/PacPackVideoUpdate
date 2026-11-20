@@ -1,0 +1,14 @@
+{
+  "version": "2.7.3",
+  "build_date": "2026-11-20",
+  "build_git_sha": "9bd582e",
+  "security_features": [
+    "Certificate Pinning",
+    "SSL Verification",
+    "Anti-tampering",
+    "HMAC Signature"
+  ],
+  "changes": [
+    "PacPack v2.7.3"
+  ]
+}
